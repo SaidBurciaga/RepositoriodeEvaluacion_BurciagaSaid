@@ -1,6 +1,9 @@
 # RepositoriodeEvaluacion_BurciagaSaid
+
 Actividad 2,17
+
 Said Antonio Burciaga Parada
+
 En este repositorio estara la practica 2.16 con el que se creara una array asociativo en el cual saldra el nombre del empleado con su sueldo mensual
 
 Código: 
